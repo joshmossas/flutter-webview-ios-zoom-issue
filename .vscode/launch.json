@@ -1,0 +1,11 @@
+{
+  "configurations": [
+    {
+      "name": "Debug Flutter",
+      "type": "dart",
+      "request": "launch",
+      "flutterMode": "debug",
+      "program": "lib/main.dart"
+    }
+  ]
+}
